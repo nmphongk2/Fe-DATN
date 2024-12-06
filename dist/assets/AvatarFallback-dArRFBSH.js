@@ -1,0 +1,1 @@
+import{j as r}from"./index-B8WTsAS6.js";const a=({name:t,className:e=""})=>r.jsx("div",{className:`h-8 w-8 bg-gray-300 rounded-full flex items-center justify-center text-white text-sm font-bold ${e}`,children:t.charAt(0)});export{a as A};

@@ -1,0 +1,1 @@
+import{_ as e}from"./index-B8WTsAS6.js";const a=async r=>{try{const t=await e.get(`client/product-detail/${r}/related`);return console.log(t.data),t.data}catch(t){throw console.error("Error fetching related products:",t),t}};export{a as f};

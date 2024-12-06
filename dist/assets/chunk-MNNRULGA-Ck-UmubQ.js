@@ -1,0 +1,1 @@
+function c(n,a){const r=a-n+1;return Array.from({length:r},(e,t)=>t+n)}function m(n,a,r){return Math.min(Math.max(n,a),r)}function o(n,a=100){return Math.min(Math.max(n,0),a)}export{o as a,m as c,c as r};
